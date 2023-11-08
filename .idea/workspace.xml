@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f70963a6-dd40-48cc-91dd-c97637baec65" name="Default Changelist" comment="Создана структура папок" />
+    <list default="true" id="f70963a6-dd40-48cc-91dd-c97637baec65" name="Default Changelist" comment="Создала main.py в ветке def-1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="def-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +41,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699451685665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Создала main.py в ветке def-1">
+      <created>1699452489417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699452489417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -54,9 +61,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создана структура папок" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создана структура папок" />
+    <MESSAGE value="Создала main.py в ветке def-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создала main.py в ветке def-1" />
   </component>
 </project>
